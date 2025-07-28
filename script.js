@@ -22,7 +22,7 @@ function getBmi() {
         else{
             cetagory = "obese"
         }
-        document.getElementById("result").innerHTML = " Your BMI is " + bmi  + " and you are " + cetagory;
+        document.getElementById("result").innerHTML = " Your BMI is " + bmi.toFixed(2)  + " and you are " + cetagory;
     }
 
         
