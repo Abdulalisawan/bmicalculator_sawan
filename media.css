@@ -1,0 +1,16 @@
+@media only screen and (min-width: 200px) and (max-width: 575px) {
+  /* CSSbody rules here */
+  .body{
+    position: relative;
+    
+    
+    
+  }
+  .bmicalculator{
+    position: absolute;
+    
+
+  }
+}
+
+    
